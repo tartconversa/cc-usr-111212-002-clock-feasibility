@@ -1,0 +1,17 @@
+{
+  "intervals": [
+    {
+      "key": "pulse-order",
+      "from": "p1",
+      "to": "p2",
+      "minimum": 9,
+      "maximum": 11
+    }
+  ],
+  "conflict_case": {
+    "key": "b-cap",
+    "device": "d1",
+    "parameter": "b",
+    "upper": 1
+  }
+}

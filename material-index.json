@@ -1,0 +1,17 @@
+[
+  {
+    "path": "fixtures/clocks.json",
+    "sha256": "575127cc9d91eb228dbd68b88bc7ddd55f538954c22782650d0be8450a79129f",
+    "size_bytes": 438
+  },
+  {
+    "path": "fixtures/pulses.csv",
+    "sha256": "359c3a163c7f8a49d5ddf0f4106ec8caf3a763506f739c4275d1da5fbb0ac709",
+    "size_bytes": 101
+  },
+  {
+    "path": "fixtures/relations.json",
+    "sha256": "f421803bfb93a80802593609fdf3d6a8884f22117824048c75b73260443b5060",
+    "size_bytes": 246
+  }
+]
